@@ -1,0 +1,8 @@
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\bin\Debug\ReorganiseMusic.exe.config
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\bin\Debug\ReorganiseMusic.exe
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\bin\Debug\ReorganiseMusic.pdb
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\obj\Debug\ReorganiseMusic.csprojResolveAssemblyReference.cache
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\obj\Debug\ReorganiseMusic.exe
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\obj\Debug\ReorganiseMusic.pdb
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\obj\Debug\Interop.Shell32.dll
+c:\users\shailesh\documents\visual studio 2012\Projects\ReorganiseMusic\ReorganiseMusic\obj\Debug\ReorganiseMusic.csproj.ResolveComReference.cache
